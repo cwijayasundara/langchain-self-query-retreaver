@@ -1,0 +1,4 @@
+lark
+pinecone-client
+langchain
+openai
